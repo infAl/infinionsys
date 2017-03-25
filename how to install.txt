@@ -1,0 +1,10 @@
+To install this mod, you need to have Simple Mod Loader installed first.
+
+You can download Simple Mod Loader from github:
+https://github.com/infal/modloader/releases
+
+
+Once you have Simple Mod Loader and Infinion Corporation installed, extract the contents of this zip file to the avorion/data/scripts/mods/ folder.
+
+
+Now when you destroy military and civilian ships, there will be a chance that they will drop Infinion Corporation "Faction Modules"
